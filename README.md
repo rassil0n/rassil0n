@@ -1,6 +1,6 @@
 # skills
 
-## programming languages
+**programming languages**
 
 - Java
 - C
@@ -8,7 +8,7 @@
 - JavaScript
 - PHP
 
-## markup languages
+**markup languages**
 
 - LaTeX
 - Markdown
